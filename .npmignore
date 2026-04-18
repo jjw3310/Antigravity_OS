@@ -1,0 +1,16 @@
+# Exclude internal development tools and docs
+tools/
+docs/
+workflows/
+
+# Exclude IDE and system configs
+.agent/
+.git/
+.gitignore
+.npm_cache/
+.DS_Store
+
+# Logs and temp files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*

@@ -1,0 +1,23 @@
+{
+  "name": "antigravity-os",
+  "version": "1.0.0",
+  "description": "The Behavioral OS for High-Performance AI Engineering.",
+  "main": "bin/cli.js",
+  "bin": {
+    "antigravity-os": "bin/cli.js"
+  },
+  "scripts": {
+    "setup": "node bin/cli.js setup"
+  },
+  "keywords": [
+    "ai",
+    "agent",
+    "guidelines",
+    "claude",
+    "cursor",
+    "engineering",
+    "discipline"
+  ],
+  "author": "jjw3310",
+  "license": "MIT"
+}
